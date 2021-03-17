@@ -1,0 +1,245 @@
+ Region, City
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ East, New York
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ East, New York
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ West, San Diego
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ West, San Diego
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ West, San Diego
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ West, San Diego
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ West, San Diego
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
+ East, New York
+ East, New York
+ West, San Diego
+ East, Boston
+ East, Boston
+ East, Boston
+ West, Los Angeles
+ West, Los Angeles
